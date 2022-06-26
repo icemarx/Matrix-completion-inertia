@@ -1,4 +1,4 @@
-% primer izrek 2_10
+% primer izrek 2_8
 A = [0 1; 1 0];
 B = [0; 1];
 C = [0];

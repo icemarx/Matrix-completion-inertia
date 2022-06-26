@@ -1,4 +1,4 @@
-% primer izreka 2.8
+% primer izreka 2.7
 A = [0 1; 1 0];
 B = [0 1; 1 0];
 n3=1;
